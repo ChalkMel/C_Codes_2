@@ -1,0 +1,14 @@
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\CP1_DynamicArray\bin\Debug\net10.0\CP1_DynamicArray.exe
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\CP1_DynamicArray\bin\Debug\net10.0\CP1_DynamicArray.deps.json
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\CP1_DynamicArray\bin\Debug\net10.0\CP1_DynamicArray.runtimeconfig.json
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\CP1_DynamicArray\bin\Debug\net10.0\CP1_DynamicArray.dll
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\CP1_DynamicArray\bin\Debug\net10.0\CP1_DynamicArray.pdb
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\CP1_DynamicArray\obj\Debug\net10.0\CP1_DynamicArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\CP1_DynamicArray\obj\Debug\net10.0\CP1_DynamicArray.AssemblyInfoInputs.cache
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\CP1_DynamicArray\obj\Debug\net10.0\CP1_DynamicArray.AssemblyInfo.cs
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\CP1_DynamicArray\obj\Debug\net10.0\CP1_DynamicArray.csproj.CoreCompileInputs.cache
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\CP1_DynamicArray\obj\Debug\net10.0\CP1_DynamicArray.dll
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\CP1_DynamicArray\obj\Debug\net10.0\refint\CP1_DynamicArray.dll
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\CP1_DynamicArray\obj\Debug\net10.0\CP1_DynamicArray.pdb
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\CP1_DynamicArray\obj\Debug\net10.0\CP1_DynamicArray.genruntimeconfig.cache
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\CP1_DynamicArray\obj\Debug\net10.0\ref\CP1_DynamicArray.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Note\\Documents\\GitHub\\C_Codes_2\\C_codes\\C_codes\\C_codes.csproj",
-      "projectName": "C_codes",
-      "projectPath": "C:\\Users\\Note\\Documents\\GitHub\\C_Codes_2\\C_codes\\C_codes\\C_codes.csproj",
+      "projectUniqueName": "C:\\Users\\Note\\Documents\\GitHub\\C_Codes_2\\C_codes\\CP1_DynamicArray\\CP1_DynamicArray.csproj",
+      "projectName": "CP1_DynamicArray",
+      "projectPath": "C:\\Users\\Note\\Documents\\GitHub\\C_Codes_2\\C_codes\\CP1_DynamicArray\\CP1_DynamicArray.csproj",
       "packagesPath": "C:\\Users\\Note\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Note\\Documents\\GitHub\\C_Codes_2\\C_codes\\C_codes\\obj\\",
+      "outputPath": "C:\\Users\\Note\\Documents\\GitHub\\C_Codes_2\\C_codes\\CP1_DynamicArray\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Note\\AppData\\Roaming\\NuGet\\NuGet.Config"
