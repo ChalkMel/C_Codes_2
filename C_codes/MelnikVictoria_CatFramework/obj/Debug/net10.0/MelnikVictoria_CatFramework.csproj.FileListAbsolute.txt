@@ -1,0 +1,12 @@
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\MelnikVictoria_CatFramework\bin\Debug\net10.0\MelnikVictoria_CatFramework.deps.json
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\MelnikVictoria_CatFramework\bin\Debug\net10.0\MelnikVictoria_CatFramework.dll
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\MelnikVictoria_CatFramework\bin\Debug\net10.0\MelnikVictoria_CatFramework.pdb
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\MelnikVictoria_CatFramework\obj\Debug\net10.0\MelnikVictoria_CatFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\MelnikVictoria_CatFramework\obj\Debug\net10.0\MelnikVictoria_CatFramework.AssemblyInfoInputs.cache
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\MelnikVictoria_CatFramework\obj\Debug\net10.0\MelnikVictoria_CatFramework.AssemblyInfo.cs
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\MelnikVictoria_CatFramework\obj\Debug\net10.0\MelnikVictoria_CatFramework.csproj.CoreCompileInputs.cache
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\MelnikVictoria_CatFramework\obj\Debug\net10.0\MelnikVictoria_CatFramework.sourcelink.json
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\MelnikVictoria_CatFramework\obj\Debug\net10.0\MelnikVictoria_CatFramework.dll
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\MelnikVictoria_CatFramework\obj\Debug\net10.0\refint\MelnikVictoria_CatFramework.dll
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\MelnikVictoria_CatFramework\obj\Debug\net10.0\MelnikVictoria_CatFramework.pdb
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\MelnikVictoria_CatFramework\obj\Debug\net10.0\ref\MelnikVictoria_CatFramework.dll

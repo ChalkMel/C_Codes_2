@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "MelnikVictoria_CatApplication/1.0.0": {
+        "dependencies": {
+          "MelnikVictoria_CatFramework": "1.0.0"
+        },
+        "runtime": {
+          "MelnikVictoria_CatApplication.dll": {}
+        }
+      },
+      "MelnikVictoria_CatFramework/1.0.0": {
+        "runtime": {
+          "MelnikVictoria_CatFramework.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MelnikVictoria_CatApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MelnikVictoria_CatFramework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

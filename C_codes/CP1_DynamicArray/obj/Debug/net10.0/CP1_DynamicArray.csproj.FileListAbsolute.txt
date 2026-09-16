@@ -12,3 +12,4 @@ C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\CP1_DynamicArray\obj\Debug\net1
 C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\CP1_DynamicArray\obj\Debug\net10.0\CP1_DynamicArray.pdb
 C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\CP1_DynamicArray\obj\Debug\net10.0\CP1_DynamicArray.genruntimeconfig.cache
 C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\CP1_DynamicArray\obj\Debug\net10.0\ref\CP1_DynamicArray.dll
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\CP1_DynamicArray\obj\Debug\net10.0\CP1_DynamicArray.sourcelink.json

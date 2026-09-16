@@ -4,6 +4,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_codes", "C_codes\C_codes.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CP1_DynamicArray", "CP1_DynamicArray\CP1_DynamicArray.csproj", "{0C4B5F5C-436A-4807-9E94-63CAC18CAE62}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MelnikVictoria_CatFramework", "MelnikVictoria_CatFramework\MelnikVictoria_CatFramework.csproj", "{89756E76-C234-412C-A156-75A398674821}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cats", "Cats", "{9F52CC49-3F17-4C6A-A4B2-D7B6A87BA467}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MelnikVictoria_CatApplication", "MelnikVictoria_CatApplication\MelnikVictoria_CatApplication.csproj", "{99DF8693-BFDB-431B-836E-817E88CFBF11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +24,17 @@ Global
 		{0C4B5F5C-436A-4807-9E94-63CAC18CAE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C4B5F5C-436A-4807-9E94-63CAC18CAE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C4B5F5C-436A-4807-9E94-63CAC18CAE62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89756E76-C234-412C-A156-75A398674821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89756E76-C234-412C-A156-75A398674821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89756E76-C234-412C-A156-75A398674821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89756E76-C234-412C-A156-75A398674821}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99DF8693-BFDB-431B-836E-817E88CFBF11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99DF8693-BFDB-431B-836E-817E88CFBF11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99DF8693-BFDB-431B-836E-817E88CFBF11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99DF8693-BFDB-431B-836E-817E88CFBF11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{89756E76-C234-412C-A156-75A398674821} = {9F52CC49-3F17-4C6A-A4B2-D7B6A87BA467}
+		{99DF8693-BFDB-431B-836E-817E88CFBF11} = {9F52CC49-3F17-4C6A-A4B2-D7B6A87BA467}
 	EndGlobalSection
 EndGlobal

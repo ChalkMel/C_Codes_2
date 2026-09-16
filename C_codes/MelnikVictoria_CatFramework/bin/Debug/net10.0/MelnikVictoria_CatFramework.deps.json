@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "MelnikVictoria_CatFramework/1.0.0": {
+        "runtime": {
+          "MelnikVictoria_CatFramework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MelnikVictoria_CatFramework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
