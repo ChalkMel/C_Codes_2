@@ -1,0 +1,15 @@
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\GeneralizedClassSeveral\bin\Debug\net10.0\GeneralizedClassSeveral.exe
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\GeneralizedClassSeveral\bin\Debug\net10.0\GeneralizedClassSeveral.deps.json
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\GeneralizedClassSeveral\bin\Debug\net10.0\GeneralizedClassSeveral.runtimeconfig.json
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\GeneralizedClassSeveral\bin\Debug\net10.0\GeneralizedClassSeveral.dll
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\GeneralizedClassSeveral\bin\Debug\net10.0\GeneralizedClassSeveral.pdb
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\GeneralizedClassSeveral\obj\Debug\net10.0\GeneralizedClassSeveral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\GeneralizedClassSeveral\obj\Debug\net10.0\GeneralizedClassSeveral.AssemblyInfoInputs.cache
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\GeneralizedClassSeveral\obj\Debug\net10.0\GeneralizedClassSeveral.AssemblyInfo.cs
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\GeneralizedClassSeveral\obj\Debug\net10.0\GeneralizedClassSeveral.csproj.CoreCompileInputs.cache
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\GeneralizedClassSeveral\obj\Debug\net10.0\GeneralizedClassSeveral.sourcelink.json
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\GeneralizedClassSeveral\obj\Debug\net10.0\GeneralizedClassSeveral.dll
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\GeneralizedClassSeveral\obj\Debug\net10.0\refint\GeneralizedClassSeveral.dll
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\GeneralizedClassSeveral\obj\Debug\net10.0\GeneralizedClassSeveral.pdb
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\GeneralizedClassSeveral\obj\Debug\net10.0\GeneralizedClassSeveral.genruntimeconfig.cache
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\GeneralizedClassSeveral\obj\Debug\net10.0\ref\GeneralizedClassSeveral.dll

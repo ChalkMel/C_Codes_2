@@ -1,0 +1,15 @@
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\GeneralizedMethod\bin\Debug\net10.0\GeneralizedMethod.exe
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\GeneralizedMethod\bin\Debug\net10.0\GeneralizedMethod.deps.json
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\GeneralizedMethod\bin\Debug\net10.0\GeneralizedMethod.runtimeconfig.json
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\GeneralizedMethod\bin\Debug\net10.0\GeneralizedMethod.dll
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\GeneralizedMethod\bin\Debug\net10.0\GeneralizedMethod.pdb
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\GeneralizedMethod\obj\Debug\net10.0\GeneralizedMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\GeneralizedMethod\obj\Debug\net10.0\GeneralizedMethod.AssemblyInfoInputs.cache
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\GeneralizedMethod\obj\Debug\net10.0\GeneralizedMethod.AssemblyInfo.cs
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\GeneralizedMethod\obj\Debug\net10.0\GeneralizedMethod.csproj.CoreCompileInputs.cache
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\GeneralizedMethod\obj\Debug\net10.0\GeneralizedMethod.sourcelink.json
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\GeneralizedMethod\obj\Debug\net10.0\GeneralizedMethod.dll
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\GeneralizedMethod\obj\Debug\net10.0\refint\GeneralizedMethod.dll
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\GeneralizedMethod\obj\Debug\net10.0\GeneralizedMethod.pdb
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\GeneralizedMethod\obj\Debug\net10.0\GeneralizedMethod.genruntimeconfig.cache
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\GeneralizedMethod\obj\Debug\net10.0\ref\GeneralizedMethod.dll

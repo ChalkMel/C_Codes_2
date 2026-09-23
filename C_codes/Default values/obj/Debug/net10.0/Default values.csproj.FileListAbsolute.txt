@@ -1,0 +1,15 @@
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\Default values\bin\Debug\net10.0\Default values.exe
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\Default values\bin\Debug\net10.0\Default values.deps.json
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\Default values\bin\Debug\net10.0\Default values.runtimeconfig.json
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\Default values\bin\Debug\net10.0\Default values.dll
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\Default values\bin\Debug\net10.0\Default values.pdb
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\Default values\obj\Debug\net10.0\Default values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\Default values\obj\Debug\net10.0\Default values.AssemblyInfoInputs.cache
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\Default values\obj\Debug\net10.0\Default values.AssemblyInfo.cs
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\Default values\obj\Debug\net10.0\Default values.csproj.CoreCompileInputs.cache
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\Default values\obj\Debug\net10.0\Default values.sourcelink.json
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\Default values\obj\Debug\net10.0\Default values.dll
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\Default values\obj\Debug\net10.0\refint\Default values.dll
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\Default values\obj\Debug\net10.0\Default values.pdb
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\Default values\obj\Debug\net10.0\Default values.genruntimeconfig.cache
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\Default values\obj\Debug\net10.0\ref\Default values.dll
