@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneralizedMethod", "Genera
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneralizedClassSeveral", "GeneralizedClassSeveral\GeneralizedClassSeveral.csproj", "{F26D841A-1146-443A-8D20-68BCDF402D2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "СP_ClassesAndOverrides", "СP_ClassesAndOverrides\СP_ClassesAndOverrides.csproj", "{598C7E15-9CCA-4A43-9B4D-0F694889E7C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -64,6 +66,10 @@ Global
 		{F26D841A-1146-443A-8D20-68BCDF402D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F26D841A-1146-443A-8D20-68BCDF402D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F26D841A-1146-443A-8D20-68BCDF402D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{598C7E15-9CCA-4A43-9B4D-0F694889E7C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{598C7E15-9CCA-4A43-9B4D-0F694889E7C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{598C7E15-9CCA-4A43-9B4D-0F694889E7C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{598C7E15-9CCA-4A43-9B4D-0F694889E7C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{89756E76-C234-412C-A156-75A398674821} = {9F52CC49-3F17-4C6A-A4B2-D7B6A87BA467}

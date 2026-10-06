@@ -1,0 +1,15 @@
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\СP_ClassesAndOverrides\bin\Debug\net10.0\СP_ClassesAndOverrides.exe
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\СP_ClassesAndOverrides\bin\Debug\net10.0\СP_ClassesAndOverrides.deps.json
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\СP_ClassesAndOverrides\bin\Debug\net10.0\СP_ClassesAndOverrides.runtimeconfig.json
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\СP_ClassesAndOverrides\bin\Debug\net10.0\СP_ClassesAndOverrides.dll
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\СP_ClassesAndOverrides\bin\Debug\net10.0\СP_ClassesAndOverrides.pdb
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\СP_ClassesAndOverrides\obj\Debug\net10.0\СP_ClassesAndOverrides.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\СP_ClassesAndOverrides\obj\Debug\net10.0\СP_ClassesAndOverrides.AssemblyInfoInputs.cache
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\СP_ClassesAndOverrides\obj\Debug\net10.0\СP_ClassesAndOverrides.AssemblyInfo.cs
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\СP_ClassesAndOverrides\obj\Debug\net10.0\СP_ClassesAndOverrides.csproj.CoreCompileInputs.cache
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\СP_ClassesAndOverrides\obj\Debug\net10.0\СP_ClassesAndOverrides.sourcelink.json
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\СP_ClassesAndOverrides\obj\Debug\net10.0\СP_ClassesAndOverrides.dll
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\СP_ClassesAndOverrides\obj\Debug\net10.0\refint\СP_ClassesAndOverrides.dll
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\СP_ClassesAndOverrides\obj\Debug\net10.0\СP_ClassesAndOverrides.pdb
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\СP_ClassesAndOverrides\obj\Debug\net10.0\СP_ClassesAndOverrides.genruntimeconfig.cache
+C:\Users\Note\Documents\GitHub\C_Codes_2\C_codes\СP_ClassesAndOverrides\obj\Debug\net10.0\ref\СP_ClassesAndOverrides.dll

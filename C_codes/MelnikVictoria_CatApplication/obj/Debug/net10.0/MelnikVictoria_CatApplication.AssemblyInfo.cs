@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MelnikVictoria_CatApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90568b7360a57657bdd70114ce8a10ee2a89fb67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8640224da356c8f42eedd66af49b0eca59ba13d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MelnikVictoria_CatApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MelnikVictoria_CatApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

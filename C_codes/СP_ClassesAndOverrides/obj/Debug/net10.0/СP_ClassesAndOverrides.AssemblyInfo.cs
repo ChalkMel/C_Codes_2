@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("MelnikVictoria_CatFramework")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("СP_ClassesAndOverrides")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8640224da356c8f42eedd66af49b0eca59ba13d")]
-[assembly: System.Reflection.AssemblyProductAttribute("MelnikVictoria_CatFramework")]
-[assembly: System.Reflection.AssemblyTitleAttribute("MelnikVictoria_CatFramework")]
+[assembly: System.Reflection.AssemblyProductAttribute("СP_ClassesAndOverrides")]
+[assembly: System.Reflection.AssemblyTitleAttribute("СP_ClassesAndOverrides")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
